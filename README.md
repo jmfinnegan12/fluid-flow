@@ -1,5 +1,5 @@
 # fluid-flow
-
+![](https://github.com/jmfinnegan12/fluid-flow/blob/main/Streamlines.PNG)
 ## Numerical Methods Final Project
 This program models the flow of a fluid with a constant horizontal velocity around a
 symmetrical airfoil using MATLAB. The script takes a streamline matrix defined in Microsoft Excel and
@@ -37,4 +37,8 @@ Additional methods:</br>
 This program is a good representation of idealized fluid flow around a smooth object.
 Objects with sharp corners or with a rough surface could not be represented by this model. Some
 corners are noticeable in the objects, but that error could be minimized by using a larger matrix. 
+
+![](https://github.com/jmfinnegan12/fluid-flow/blob/main/Surface%20Fit%20Plots.PNG)
+![](https://github.com/jmfinnegan12/fluid-flow/blob/main/Quiver%20Plot%20Velocity.PNG)
+
 
